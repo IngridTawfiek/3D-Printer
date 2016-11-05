@@ -16,4 +16,4 @@ The program requires installation of the Kitware Visualization Toolkit (VTK), av
 * Bishoy Gamal
 
 ##Acknowledgements
-This project was carried out under the supervision of Dr Ahmed El Bialy at Cairo University, for whose guidance we are grateful.
+This project was carried out under the supervision of Dr Ahmed El Bialy at Cairo University, for whose guidance we are very grateful.
