@@ -1,6 +1,4 @@
-3D-Printer -  Software to Control a Resin-Based 3D Prototyping Machine
-===========
-
+#3D-Printer -  Software to Control a Resin-Based 3D Prototyping Machine
 A C# program to control a resin-based 3D prototyping machine built primarily using a projector and two stepper motors housed within a custom-made wooden structure.
 
 This was my University group project for the last year of my degree in Biomedical and Systems Engineering, for which we achieved an A-grade.
