@@ -13,8 +13,11 @@ The program requires installation of the Kitware Visualization Toolkit (VTK), av
 Authors
 ================
 Ingrid Tawfiek
+
 Michael Ramez
+
 Nadine Samy
+
 Bishoy Gamal
 
 Acknowledgements
