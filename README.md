@@ -8,13 +8,12 @@ While the code is quite simple, the majority of our effort was spent building th
 The program requires installation of the Kitware Visualization Toolkit (VTK), available here: http://www.kitware.com/opensource/vtk.html
 
 
-Authors
-================
+##Authors
+
 * Ingrid Tawfiek
 * Michael Ramez
 * Nadine Samy
 * Bishoy Gamal
 
-Acknowledgements
-================
+##Acknowledgements
 This project was carried out under the supervision of Dr Ahmed El Bialy at Cairo University, for whose guidance we are grateful.
